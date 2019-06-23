@@ -1,6 +1,6 @@
 cask 'gimme-quote' do
-  version '0.2.4'
-  sha256 '65c8de6534f1047ca821f0fa0bdaf918f931090a38d09b5b24e5734520f6c917'
+  version '0.3.0'
+  sha256 'c74a6bf92396880f5f6926fdd1051c1e0ba680346b3f96719f13d9e66455603d'
 
   url "https://github.com/robinmitra/gimme-quote-desktop/releases/download/v#{version}/gimme-quote-#{version}-mac.zip"
   appcast 'https://github.com/robinmitra/gimme-quote-desktop/releases.atom'
